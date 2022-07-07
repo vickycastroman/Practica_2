@@ -1,3 +1,6 @@
 # Practica_2
-virginia Castroman
-ahi va
+Virginia Castroman
+Agustina Barca
+luis alejandro diaz
+nico
+
